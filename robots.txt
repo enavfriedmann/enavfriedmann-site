@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://enavfriedmann.pages.dev/sitemap.xml
+Sitemap: https://enavfriedmann.com/sitemap.xml
